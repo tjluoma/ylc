@@ -16,7 +16,7 @@ Pretty simple, really:
 
 * I can set VLC to “Float on Top” if I want:
 
-![](/tjluoma/ylc/master/img/vlc-float-on-top.png)
+![](https://github.com/tjluoma/ylc/raw/master/img/vlc-float-on-top.png)
 
 
 * I can easily control its position relative other windows (especially browser windows).
