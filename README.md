@@ -1,6 +1,6 @@
 # ylc
 
-(Y)ouTube via V(LC)
+**Y**ouTube via V**LC**
 
 ## Usage
 
