@@ -31,3 +31,26 @@ All of the hard work is done by [youtube-dl](https://rg3.github.io/youtube-dl/).
 
 I just wrapped a little script around it.
 
+## Installation
+
+In Terminal.app:
+
+1. `cd` to somewhere in your `$PATH` such as `/usr/local/bin/`
+
+		cd /usr/local/bin/
+
+2.	Download the script
+
+		curl -fL --remote-name https://raw.githubusercontent.com/tjluoma/ylc/master/ylc.sh
+
+3.	Make it executable
+
+		chmod 755 ylc.sh
+
+4.	Make sure that you have `youtube-dl` installed somewhere in your `$PATH`
+
+		which youtube-dl
+
+5. If `youtube-dl` is not installed, install it with `brew install youtube-dl` or from [its web page](https://rg3.github.io/youtube-dl/).
+
+
